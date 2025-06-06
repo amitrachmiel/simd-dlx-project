@@ -37,7 +37,7 @@ The extended processor architecture includes a custom parallel ALU and support f
 ## Project Structure
 ├── assembler/           # Python code for assembling custom SIMD assembly
 ├── rtl/                 # Verilog HDL files for DLX processor and SIMD ALU
-├── simulations/         # Testbenches and ModelSim projects
+├── simulations/         # Testbenches and ModelSim projects, data files and cod files
 ├── bit_file/            # bit_file of processsor for resa
 ├── examples/            # Assembly programs for image processing tasks
 ├── fpga/                # Xilinx project files and constraints
