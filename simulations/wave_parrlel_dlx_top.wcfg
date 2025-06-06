@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/amit_tom/A7/amit_tom/project/HOME_VER/TB_IO_SIM_DLX_TOP_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TB_IO_SIM_DLX_TOP" />
+            <top_module name="glbl" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="50" />
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/CLK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLK_IN</obj_property>
+      <obj_property name="ObjectShortName">CLK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/RST" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/STEP_EN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">STEP_EN</obj_property>
+      <obj_property name="ObjectShortName">STEP_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/AS_N" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">AS_N</obj_property>
+      <obj_property name="ObjectShortName">AS_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/IN_INIT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">IN_INIT</obj_property>
+      <obj_property name="ObjectShortName">IN_INIT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/WR_N" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">WR_N</obj_property>
+      <obj_property name="ObjectShortName">WR_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MR" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MR</obj_property>
+      <obj_property name="ObjectShortName">MR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MW" type="logic" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">MW</obj_property>
+      <obj_property name="ObjectShortName">MW</obj_property>
+      <obj_property name="label">MW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/A_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">A_CE</obj_property>
+      <obj_property name="ObjectShortName">A_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/B_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">B_CE</obj_property>
+      <obj_property name="ObjectShortName">B_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/C_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">C_CE</obj_property>
+      <obj_property name="ObjectShortName">C_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/IR_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">IR_CE</obj_property>
+      <obj_property name="ObjectShortName">IR_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/PC_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_CE</obj_property>
+      <obj_property name="ObjectShortName">PC_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MAR_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MAR_CE</obj_property>
+      <obj_property name="ObjectShortName">MAR_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MDR_CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MDR_CE</obj_property>
+      <obj_property name="ObjectShortName">MDR_CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/AO" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">AO[31:0]</obj_property>
+      <obj_property name="ObjectShortName">AO[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/GPR_D" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">GPR_D[31:0]</obj_property>
+      <obj_property name="ObjectShortName">GPR_D[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/GPR_WE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GPR_WE</obj_property>
+      <obj_property name="ObjectShortName">GPR_WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/OVF" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">OVF</obj_property>
+      <obj_property name="ObjectShortName">OVF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/S1_SEL" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S1_SEL[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_SEL[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/S2_SEL" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S2_SEL[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S2_SEL[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/A_SEL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">A_SEL</obj_property>
+      <obj_property name="ObjectShortName">A_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MDR_SEL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MDR_SEL</obj_property>
+      <obj_property name="ObjectShortName">MDR_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/TEST" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TEST</obj_property>
+      <obj_property name="ObjectShortName">TEST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/ITYPE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ITYPE</obj_property>
+      <obj_property name="ObjectShortName">ITYPE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/ADD" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ADD</obj_property>
+      <obj_property name="ObjectShortName">ADD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/SHIFT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">SHIFT</obj_property>
+      <obj_property name="ObjectShortName">SHIFT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/JLINK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">JLINK</obj_property>
+      <obj_property name="ObjectShortName">JLINK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/STOP_N" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">STOP_N</obj_property>
+      <obj_property name="ObjectShortName">STOP_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/BUSY" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">BUSY</obj_property>
+      <obj_property name="ObjectShortName">BUSY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/AEQZ" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">AEQZ</obj_property>
+      <obj_property name="ObjectShortName">AEQZ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/DINT_SEL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DINT_SEL</obj_property>
+      <obj_property name="ObjectShortName">DINT_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MUXALU_SEL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MUXALU_SEL</obj_property>
+      <obj_property name="ObjectShortName">MUXALU_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/DO" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DO[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DO[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/IR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IR[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/MAC_STATE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MAC_STATE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MAC_STATE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/DLX_STATE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DLX_STATE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">DLX_STATE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/alu_env_dlx/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/alu_env_dlx/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/alu_env_dlx/ALUF" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUF[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUF[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/alu_env_dlx/ALU_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALU_OUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_OUT[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/reg_pc/DOUT" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">DOUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DOUT[31:0]</obj_property>
+      <obj_property name="label">PC_OUT[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/parallel_alu/rs1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rs1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/parallel_alu/rs2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rs2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/parallel_alu/imm" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/parallel_alu/opcode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">opcode[5:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[5:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/parallel_alu/rd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/mux_alu/O" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">O[31:0]</obj_property>
+      <obj_property name="ObjectShortName">O[31:0]</obj_property>
+      <obj_property name="label">mux_alu_out</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/mux_dint/O" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">O[31:0]</obj_property>
+      <obj_property name="ObjectShortName">O[31:0]</obj_property>
+      <obj_property name="label">mux_dint_out</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_IO_SIM_DLX_TOP/uut/dlx_top/datapath_dlx/reg_c/DOUT" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">DOUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DOUT[31:0]</obj_property>
+      <obj_property name="label">reg_c_out</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>
