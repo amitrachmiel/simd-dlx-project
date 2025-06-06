@@ -65,8 +65,8 @@ The extended processor architecture includes a custom parallel ALU and support f
 
 ## Authors
 
-- **Tom Bernstein** (ID: 207941188)  
-- **Amit Rachmiel** (ID: 322724097)  
+- **Tom Bernstein** 
+- **Amit Rachmiel** 
 - **Supervisor**: Oren Ganon  
 - **Institution**: Tel Aviv University, Faculty of Engineering
 
