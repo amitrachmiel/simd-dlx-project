@@ -8,21 +8,13 @@ This guide explains how to install all the software tools required to run and te
 
 - **Recommended version**: Python 3.8 or later  
 - **Download**: https://www.python.org/downloads/  
-- **Test installation**:
-  ```
-  python --version
-  ```
+
 
 ## 2. Assembly (Assembler Script)
 
-**Purpose**: Convert `.asm` files into machine-readable binary files for the CPU.
+**Purpose**: In this project, the assembly code is used to implement image processing operations that demonstrate the **parallel execution capabilities** of the custom-designed CPU. 
 
-- No external software needed.
-- The assembler script is included in the project under `/assembler/`.
-- To run:
-  ```
-  python assembler/assemble.py input.text output.data
-  ```
+- The assembler script is included in the project under `/examples/`.
 
 ## 3. Xilinx ISE Design Suite 14.7 (WebPACK)
 
